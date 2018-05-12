@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '25973'
     url: http://www.gutenberg.org/2009/agents/25973
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23664#Flamsted-quarries
 gutenberg_issued: '2007-11-30'
 gutenberg_type: Text
 identifiers:
