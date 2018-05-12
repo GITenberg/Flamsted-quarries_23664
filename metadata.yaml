@@ -1,0 +1,34 @@
+_repo: Flamsted-quarries_23664
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Nelson, G. Patrick
+    gutenberg_agent_id: '25972'
+    url: http://www.gutenberg.org/2009/agents/25972
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Waller, Mary E. (Mary Ella)
+    aliases:
+    - Waller, M. E. (Mary Ella)
+    - Waller, Mary Ella
+    birthdate: 1855
+    deathdate: 1938
+    gutenberg_agent_id: '25973'
+    url: http://www.gutenberg.org/2009/agents/25973
+description: ''
+gutenberg_issued: '2007-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23664'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fiction'
+title: Flamsted quarries
+url: http://www.gutenberg.org/ebooks/23664
